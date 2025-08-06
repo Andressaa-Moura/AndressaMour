@@ -1,8 +1,8 @@
 ## 👋 Olá, sou Andressa Moura!
 
-💻 Desenvolvedora Web | Q.A em aprendizado
+💻 QA em formação | Desenvolvedora Web iniciante
 
-🎯 Focada em automação de testes e desenvolvimento web
+🎯 Focada em **testes manuais**, **testes de API** e aprendendo **automação com Cypress**
 
 ### 🚀 Sobre mim
 - 🔭 Estou trabalhando atualmente em: Automação de Testes e Desenvolvimento Web
